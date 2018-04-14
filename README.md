@@ -2,7 +2,7 @@
 
 ## Building with React and Remembering Dogs
 
-    Do you think you have excellent memory? Test it out by seeing how well you can remember the adorable puppies!
+   Do you think you have excellent memory? Test it out by seeing how well you can remember the adorable puppies!
     
 ### How to Play:
   Start off by clicking on any picture fo a dog and you'll receive a score of one.   
@@ -11,6 +11,5 @@
   
   Aim for the highest score!
 
-### Divided into multiple components...
 
 
