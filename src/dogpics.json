@@ -1,0 +1,62 @@
+[
+    {
+        "type": "bulldog",
+        "pics": "https://dog.ceo/api/img/bulldog-boston/n02096585_1737.jpg"
+    },
+    {
+        "type": "beagle",
+        "pics": "https://dog.ceo/api/img/beagle/n02088364_13050.jpg"
+    },
+    {
+        "type": "husky",
+        "pics": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+    },
+    {
+        "type": "maltese",
+        "pics": "https://dog.ceo/api/img/maltese/n02085936_10197.jpg"
+    },
+    {
+        "type": "pomeranian",
+        "pics": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
+    },
+    {
+        "type": "poodle",
+        "pics": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
+    },
+    {
+        "type": "pyrenees",
+        "pics": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
+    },
+    {
+        "type": "chihuahua",
+        "pics": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
+    },
+    {
+        "type": "boxer",
+        "pics": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+    },
+    {
+        "type": "chow",
+        "pics": "https://dog.ceo/api/img/chow/n02112137_12792.jpg"
+    },
+    {
+        "type": "corgi",
+        "pics": "https://dog.ceo/api/img/corgi-cardigan/n02113186_1030.jpg"
+    },
+    {
+        "type": "mastiff",
+        "pics": "https://dog.ceo/api/img/mastiff-bull/n02108422_2052.jpg"
+    },
+    {
+        "type": "sheepdog",
+        "pics": "https://dog.ceo/api/img/sheepdog-english/n02105641_12614.jpg"
+    },
+    {
+        "type": "terrier",
+        "pics": "https://dog.ceo/api/img/terrier-american/n02093428_10164.jpg"
+    },
+    {
+        "type": "shihtzu",
+        "pics": "https://dog.ceo/api/img/shihtzu/n02086240_11766.jpg"
+    }
+]
